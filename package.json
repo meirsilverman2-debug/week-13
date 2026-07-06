@@ -1,0 +1,25 @@
+{
+  "name": "week-13",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000w\u0000e\u0000e\u0000k\u0000-\u00001\u00003\u0000\r\u0000 \u0000",
+  "main": "HTTP_vanila_server_exercise.js",
+  "scripts": {
+    "start": "node --watch HTTP_vanila_server_exercise",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meirsilverman2-debug/week-13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/meirsilverman2-debug/week-13/issues"
+  },
+  "homepage": "https://github.com/meirsilverman2-debug/week-13#readme",
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
