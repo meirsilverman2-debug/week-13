@@ -1,0 +1,18 @@
+{
+  "name": "wedensday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "morning.js",
+  "scripts": {
+    "start": "node --env-file=.env --watch express_exercises_param_query",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
